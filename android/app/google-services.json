@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "136251472034",
+    "firebase_url": "https://teacherms-81963.firebaseio.com",
+    "project_id": "teacherms-81963",
+    "storage_bucket": "teacherms-81963.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136251472034:android:41fa6427e2364ed781bffb",
+        "android_client_info": {
+          "package_name": "com.shifat.tms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "136251472034-edgmrcbt7mr4oknkrq3onl813vn28bbe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7pdTecZrWWCUlsKlIf9YaL8Pmb7vch74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "136251472034-edgmrcbt7mr4oknkrq3onl813vn28bbe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
